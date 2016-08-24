@@ -6,9 +6,13 @@ color:
   saturation: 0.3878400782123208
   rhythmicContrast: 0.6876807331573218
   brandColors:
-    - '#332532'
-    - '#644D52'
-    - '#F77A52'
-    - '#FF974F'
-    - '#A49A87'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
 name: Hey Guy Media
+navigation:
+  - name: What We Do
+    url: 'http://www.heyguymedia.com/?page_id=2'
+    type: external
